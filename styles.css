@@ -1,1 +1,7 @@
-/* your code */
+th{
+	color:white;
+	text-align:left;
+}
+table, th, td{
+	border:none;
+}
