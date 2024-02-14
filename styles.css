@@ -1,7 +1,7 @@
-th{
-	color:white;
-	text-align:left;
-}
 table, th, td{
-	border:none;
+	border: none;
+	text-align: left;
+}
+th{
+	color: white;
 }
